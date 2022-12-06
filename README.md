@@ -26,8 +26,8 @@
     <div id="projects">
         <h2>💼 Current Projects</h2>
         <p>
-            <li><a href="https://github.com/Lewis-Gallagher/wedding-website">Wedding Flask application</a> created using Flask and SQLAlchemy with HTML and CSS. Handles RSVP of guests and automated confirmation emails.</li>
-            <li><a href="https://github.com/Lewis-Gallagher/adventofcode">Advent of Code</a></ol> is a yearly coding challenged from the 1st to the 25th of Decemeber.  It's a bit of fun and I always learn something new along the way too.</li>
+            <li><a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a> created using Flask and SQLAlchemy with HTML and CSS. Handles RSVP of guests and automated confirmation emails.</li>
+            <li><a href="https://github.com/Lewis-Gallagher/adventofcode">🎅🏻🎄 Advent of Code</a></ol> is a yearly coding challenged from the 1st to the 25th of Decemeber.  It's a bit of fun and I always learn something new along the way too.</li>
         </p>
     </div>
 </body>
