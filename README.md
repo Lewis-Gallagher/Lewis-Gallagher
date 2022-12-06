@@ -16,7 +16,7 @@
 </h1>
 
 <body>
-    <div id="aboutme">
+    <div id="aboutme" align="center">
     <h2>👨‍💻 About Me</h2>
     <p>
         🧬 I'm bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
@@ -25,14 +25,14 @@
         ✅ Enjoy challenges and learning through experience with personal projects with defined goals.<br>
         </p>
     </div>
-    <div id="projects">
-        <h2>💼 Current Projects</h2>
+    <div id="projects" align="center">
+        <h2>👷‍♂️ Current Projects</h2>
         <p>
-            <li><a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a> created using Flask and SQLAlchemy with HTML and CSS. Handles RSVP of guests and automated confirmation emails.</li>
-            <li><a href="https://github.com/Lewis-Gallagher/adventofcode">🎅🏻🎄 Advent of Code</a></ol> is a yearly coding challenged from the 1st to the 25th of Decemeber.  It's a bit of fun and I always learn something new along the way too.</li>
+            <a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a><br>created using Flask and SQLAlchemy with HTML and CSS. Handles RSVP of guests and automated confirmation emails.<br>
+            <a href="https://github.com/Lewis-Gallagher/adventofcode">🎅🏻🎄 Advent of Code</a><br>is a yearly coding challenge every Decemeber.  It's a bit of fun and I always learn something new along the way too.
         </p>
     </div>
-    <div id="contact">
+    <div id="contact" align="center">
         <h2>Contact Me</h2>
         <a href="mailto:lewis.gallagher@icr.ac.uk">lewis.gallagher@icr.ac.uk</a><br>    
     </div>
