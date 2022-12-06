@@ -17,19 +17,27 @@
 
 <body>
     <div id="aboutme" align="center">
-    <h2>👨‍💻 About Me</h2>
-    <p>
-        🧬 I'm bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
-        🎓 Pursuing a PhD at <a href="https://www.icr.ac.uk/" target="_blank">The Institute of Cancer Research,</a> investigating prostate cancer treatement resistance.<br>
-        🔎 Exploring skills in software engineering including Flask, Docker and SQLAlchemy.<br>
-        ✅ Enjoy challenges and learning through personal projects with defined goals.<br>
+        <h2>👨‍💻 About Me</h2>
+        <p>
+            🧬 I'm bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
+            🎓 Pursuing a PhD at <a href="https://www.icr.ac.uk/" target="_blank">The Institute of Cancer Research,</a> investigating prostate cancer treatement resistance.<br>
+            🔎 Exploring skills in software engineering including Flask, Docker and SQLAlchemy.<br>
+            ✅ Enjoy challenges and learning through personal projects with defined goals.
         </p>
     </div>
-
-    <div id="tools" align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp/>
+    <div>
+        <h2>🛠 Lanugages & Tools</h2>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/nextflow-io/nextflow/blob/master/docs/images/nextflow-logo.png?raw=true" title="SQLAlchemy" alt="SQLAlchemy" width="40" style="position:relative;top:-15px" height="9"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
     </div>
-
     <div id="projects" align="center">
         <h2>👷‍♂️ Current Projects</h2>
         <p>
