@@ -1,5 +1,5 @@
 <div id="header" align="center">
-      <img src="chibi1.png" width="100px"/>
+      <img src="chibi.png" width="100px"/>
 </div>
 
 <div id="badges" align="center">
