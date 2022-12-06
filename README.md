@@ -22,9 +22,14 @@
         🧬 I'm bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
         🎓 Pursuing a PhD at <a href="https://www.icr.ac.uk/" target="_blank">The Institute of Cancer Research,</a> investigating prostate cancer treatement resistance.<br>
         🔎 Exploring skills in software engineering including Flask, Docker and SQLAlchemy.<br>
-        ✅ Enjoy challenges and learning through experience with personal projects with defined goals.<br>
+        ✅ Enjoy challenges and learning through personal projects with defined goals.<br>
         </p>
     </div>
+
+    <div id="tools" align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp/>
+    </div>
+
     <div id="projects" align="center">
         <h2>👷‍♂️ Current Projects</h2>
         <p>
