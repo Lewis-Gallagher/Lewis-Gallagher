@@ -25,7 +25,7 @@
             ✅ Enjoy challenges and learning through personal projects with defined goals.
         </p>
     </div>
-    <div>
+    <div align="center">
         <h2>🛠 Lanugages & Tools</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
