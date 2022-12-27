@@ -18,6 +18,7 @@
 <body>
     <div id="aboutme" align="center">
         <h2>👨‍💻 About Me</h2>
+        <br>
         <p>
             🧬 I'm bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
             🎓 Pursuing a PhD at <a href="https://www.icr.ac.uk/" target="_blank">The Institute of Cancer Research,</a> investigating prostate cancer treatement resistance.<br>
@@ -27,6 +28,7 @@
     </div>
     <div align="center">
         <h2>🛠 Lanugages & Tools</h2>
+        <br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
@@ -38,14 +40,13 @@
     </div>
     <div id="projects" align="center">
         <h2>👷‍♂️ Current Projects</h2>
+        <br>
         <p>
             <h3><a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a></h3>
-            <br>
             created with Flask and stores guest RSVPs in an sqllite SQLAlchemy database. Styled with HTML and CSS. Handles RSVP of guests and automated confirmation emails.
             <br>
             <h3><a href="https://github.com/Lewis-Gallagher/advent-of-code">🎅🏻🎄 Advent of Code</a></h3>
-            <br>
-            is a yearly coding challenge every Decemeber.  It's a bit of fun and I always learn something new along the way too.  I've also set up a <a href="https://github.com/Lewis-Gallagher/advent-of-code-cookiecutter"></a>cookiecutter repository</a> to standardise the dicrectory format and reduce the amount of boilerplate code required each day.
+            is a yearly coding challenge every Decemeber.  It's a bit of fun and I always learn something new along the way too.  I've also set up a <a href="https://github.com/Lewis-Gallagher/advent-of-code-cookiecutter">cookiecutter repository</a> to standardise the dicrectory format and reduce the amount of boilerplate code required each day.
         </p>
     </div>
     <div id="contact" align="center">
