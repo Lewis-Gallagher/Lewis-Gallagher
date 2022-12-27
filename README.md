@@ -29,20 +29,23 @@
         <h2>🛠 Lanugages & Tools</h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
         <img src="https://github.com/nextflow-io/nextflow/blob/master/docs/images/nextflow-logo.png?raw=true" title="nextflow" alt="nextflow" width="40" style="position:relative;top:-15px" height="9"/>&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>
     </div>
     <div id="projects" align="center">
         <h2>👷‍♂️ Current Projects</h2>
         <p>
-            <a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a><br>created using Flask and SQLAlchemy with HTML and CSS. Handles RSVP of guests and automated confirmation emails.<br>
-            <a href="https://github.com/Lewis-Gallagher/adventofcode">🎅🏻🎄 Advent of Code</a><br>is a yearly coding challenge every Decemeber.  It's a bit of fun and I always learn something new along the way too.
+            <h3><a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a></h3>
+            <br>
+            created with Flask and stores guest RSVPs in an sqllite SQLAlchemy database. Styled with HTML and CSS. Handles RSVP of guests and automated confirmation emails.
+            <br>
+            <h3><a href="https://github.com/Lewis-Gallagher/advent-of-code">🎅🏻🎄 Advent of Code</a></h3>
+            <br>
+            is a yearly coding challenge every Decemeber.  It's a bit of fun and I always learn something new along the way too.  I've also set up a <a href="https://github.com/Lewis-Gallagher/advent-of-code-cookiecutter"></a>cookiecutter repository</a> to standardise the dicrectory format and reduce the amount of boilerplate code required each day.
         </p>
     </div>
     <div id="contact" align="center">
