@@ -19,9 +19,9 @@
     <div id="aboutme" align="center">
         <h2>👨‍💻 About Me</h2>
         <p>
-            🧬 I'm bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
-            🎓 Pursuing a PhD at <a href="https://www.icr.ac.uk/" target="_blank">The Institute of Cancer Research,</a> investigating prostate cancer treatement resistance.<br>
-            🔎 Exploring skills in software engineering including Flask and Docker applications.<br>
+            🧬 I'm a bioinformatician from London, UK. Trainied in 🦠 metagenomics, 🧫 single-cell RNAseq and molecular-diagnostics<br>
+            🎓 Pursuing a PhD at <a href="https://www.icr.ac.uk/" target="_blank">The Institute of Cancer Research,</a> investigating prostate cancer treatment resistance.<br>
+            🔎 Exploring skills in software engineering, including Flask and Docker applications.<br>
             ✅ Enjoy challenges and learning through personal projects with defined goals.
         </p>
     </div>
@@ -42,10 +42,10 @@
         <h2>👷‍♂️ Current Projects</h2>
         <p>
             <h3><a href="https://github.com/Lewis-Gallagher/wedding-website">👰🏽‍♀️🤵‍♂️ Wedding Flask application</a></h3>
-            created with Flask and stores guest RSVPs in an sqllite SQLAlchemy database. Styled with HTML and CSS. Handles RSVP of guests and automated confirmation emails.
+            created with Flask to store guest RSVPs in an sqllite SQLAlchemy database. Styled with HTML and CSS. Handles RSVP of guests and automated confirmation emails. Executed via Docker compose.
             <br>
             <h3><a href="https://github.com/Lewis-Gallagher/advent-of-code">🎅🏻🎄 Advent of Code</a></h3>
-            is a yearly coding challenge every Decemeber.  It's a bit of fun and I always learn something new along the way too.  I've also set up a <a href="https://github.com/Lewis-Gallagher/advent-of-code-cookiecutter">cookiecutter repository</a> to standardise the dicrectory format and reduce the amount of boilerplate code required each day.
+            is a yearly Christmas themed coding challenge held every Decemeber.  It's a bit of fun and I always learn something new along the way.  I've also set up a <a href="https://github.com/Lewis-Gallagher/advent-of-code-cookiecutter">cookiecutter repository</a> to standardise the dicrectory format and reduce the amount of boilerplate code required each day.
         </p>
     </div>
     <br>
